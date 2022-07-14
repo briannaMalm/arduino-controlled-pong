@@ -13,12 +13,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-After I had gotten paddles on the screen It was starting to look more like a pong game.However, the ball wasn't affected by the paddles.The paddles needed to have the ability to stop the ball's movement.It passed through the paddle and kept bouncing of the screen.
+
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
-My first milestone was getting the ball to move  and stay on the screen in different directions.I had issues at the beginning of inserting the code because it was just moving in two directions.Then once it was in different directions it didn't want to stay on the screen.It disappeared.
+My first milestone was getting my processing software working and making the ball move and stay on the screen.I had issues at the beginning of inserting the code because it was just moving in two directions and it needed to be different directions.Then once it was in different directions it didn't want to stay on the screen.It disappeared once the game started.However I was able to fix this issue.After I had gotten paddles on the screen, it was starting to look more like a pong game.However, the ball wasn't affected by the paddles.It seemed to pass right through the padlles.However,the paddles needed to have the ability to stop the ball's movement.After a few adjustments ,it  sucessfully bounced of the paddles and became and effective pong game.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
