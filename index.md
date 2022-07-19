@@ -13,9 +13,11 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
+After launching the Arduino App, I created an input test.I made sure my arduino board was connected to my laptop using a dongle and jumper wires.When it was connected , we had to make sure three jumper wire all on the same side were connected to the board.To GND,A0,A1.It was first connected to 5V but when it was I didn't get results so it had to be changed.
+The other side of the wires will serve as a control when they touch.When A0 is touching the GND wire its up and A1 is zero.I used a serial monitor to make sure I was getting the right values.
 
+<iframe width="650" height="365" src="https://www.youtube.com/embed/6sgyN1Y26Gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
