@@ -5,12 +5,12 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Brianna Malm | International Community School | Mechanical/Aerospace Engineering | Incoming Senior
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
-  
+![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
+
 # Final Milestone
 To connect my Arduino board, I had to import processing serial into the pong game and making sure we have the device number in the code.So now the wires control the left side of the game and the other side is controlled by the keyboard.The successful game has been made!.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+<iframe width="650" height="365" src="https://www.youtube.com/embed/FmGTrq9Gdn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 After launching the Arduino App, I created an input test.I made sure my arduino board was connected to my laptop using a dongle and jumper wires.When it was connected , we had to make sure three jumper wire all on the same side were connected to the board.To GND,A0,A1.It was first connected to 5V but when it was I didn't get results so it had to be changed.
