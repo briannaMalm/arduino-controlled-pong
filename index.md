@@ -28,4 +28,4 @@ My first milestone was getting my processing software working and making the bal
 # My Documentation
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQZ36k_hEATV59LdjxpppWR23OxuJt6o0mAkSHdQAeUr2nPlcf-7S0dFv2pmuDYceUuCyCpAaNdq1M/pub?embedded=true"></iframe>
+<iframe width="650" height="365" src="https://docs.google.com/document/d/e/2PACX-1vRQZ36k_hEATV59LdjxpppWR23OxuJt6o0mAkSHdQAeUr2nPlcf-7S0dFv2pmuDYceUuCyCpAaNdq1M/pub?embedded=true"></iframe>
