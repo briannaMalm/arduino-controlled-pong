@@ -24,3 +24,8 @@ The other side of the wires will serve as a control when they touch.When A0 is t
 My first milestone was getting my processing software working and making the ball move and stay on the screen.I had issues at the beginning of inserting the code because it was just moving in two directions and it needed to be different directions.Then once it was in different directions it didn't want to stay on the screen.It disappeared once the game started.However I was able to fix this issue.After I had gotten paddles on the screen, it was starting to look more like a pong game.However, the ball wasn't affected by the paddles.It seemed to pass right through the padlles.However,the paddles needed to have the ability to stop the ball's movement.After a few adjustments ,it  sucessfully bounced of the paddles and became and effective pong game.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/bWMObeQ9i6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# My Documentation
+
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQZ36k_hEATV59LdjxpppWR23OxuJt6o0mAkSHdQAeUr2nPlcf-7S0dFv2pmuDYceUuCyCpAaNdq1M/pub?embedded=true"></iframe>
