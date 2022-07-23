@@ -7,6 +7,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
+<img src="headshot.png" height="250" width="300">
 # Final Milestone
 To connect my Arduino board, I had to import processing serial into the pong game and making sure we have the device number in the code.So now the wires control the left side of the game and the other side is controlled by the keyboard.The successful game has been made!.
 
