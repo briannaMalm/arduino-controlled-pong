@@ -1,5 +1,5 @@
 ﻿# Project Name/Arduino Controlled Pong
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+Hey Guys!.This is a pong processing game which you can play with friends.All you need is your brawn,arduino board and your laptop.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -7,7 +7,9 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
-<img src="headshot.png" height="250" width="300">
+<img src="headshot.png" height="300" width="280" align="left">
+<img src="diagram.png" height="300" width="280" align="center">
+<img src="pong.png" height="300" width="280" align="right">
 # Final Milestone
 To connect my Arduino board, I had to import processing serial into the pong game and making sure we have the device number in the code.So now the wires control the left side of the game and the other side is controlled by the keyboard.The successful game has been made!.
 
