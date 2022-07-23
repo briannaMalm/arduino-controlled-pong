@@ -7,7 +7,7 @@ Hey Guys!.This is a pong processing game which you can play with friends.All you
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
-<img src="headshot.png" height="300" width="280" align="left">
+<img src="headshot.png" height="300" width="280">
 
 
 
@@ -44,5 +44,5 @@ My first milestone was getting my processing software working and making the bal
 
 # Useful Images
 
-<img src="diagram.png" height="300" width="280" align="center">
-<img src="pong.png" height="300" width="280" align="right">
+<img src="diagram.png" height="300" width="280" align="left">
+<img src="pong.png" height="300" width="280" align="center">
