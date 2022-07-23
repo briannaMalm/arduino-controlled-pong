@@ -10,6 +10,7 @@ Hey Guys!.This is a pong processing game which you can play with friends.All you
 <img src="headshot.png" height="300" width="280" align="left">
 <img src="diagram.png" height="300" width="280" align="center">
 <img src="pong.png" height="300" width="280" align="right">
+
 # Final Milestone
 To connect my Arduino board, I had to import processing serial into the pong game and making sure we have the device number in the code.So now the wires control the left side of the game and the other side is controlled by the keyboard.The successful game has been made!.
 
